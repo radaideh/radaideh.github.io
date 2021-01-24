@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Amer Al-Radaideh"
   avatar           : "Amer_Profile_Picture.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "Autnomous Systems Engineer"
+  location         : "Las Cruces, NM, USA"
+  employer         : "New Mexico State University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=MS-hGq0AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
