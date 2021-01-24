@@ -10,10 +10,18 @@ redirect_from:
 
 Hi! I’m Amer, a PhD Candidate at the [New Mexico State University(NMSU)](https://nmsu.edu/) in the [Department of Mechanical & Aerospace Engineering](https://mae.nmsu.edu/) at the [Autonomous Systems Laboratory (ASL)](https://asl.nmsu.edu/). I’m a researcher in the Autonomous systems specialized in Control Systems, State Estimation, and Localization. 
 
+My work and research
+======
+Since 2006, I have been conducting experimental research in the field of unmanned autonomous systems, particularly, VTOL helicopter, Quadcopters and Fixed Wing UAV. During this time, I have gained a great deal of experience in modeling, simulation, instrumentation, system identification, estimation, localization, control, guidance, and navigation.
+In my current PhD research, I am studying self-localization of the quadcopter in GPS-denied environment using EKF, UKF while controlling it using PID, LQR, Backstepping-Lyapunov nonlinear controllers.  
+
+In the summer of 2018, I did an excellent internship at a drone mapping company in Silicon Valley. They provide the necessary data for autonomous driving car companies. I was excited to evaluate several sensors (IMU/INS/GPS, LiDar) in order to develop the final sensor kit. Also, I gained good experience in embedded systems and sensor fusion.  
+
+Also for my PhD research, I have gained extensive experience with operating the Motion Capture System (Tracker software by VICON) to provide the “ground truth” for developing onboard control systems.    
 
 My background and history
 ======
-I am currently pursuing my Ph.D in Mechanical Engineering at the at the [New Mexico State University (NMSU)](https://nmsu.edu/). I received my M.Sc. in Mechatronics Engineering at the [American University of Sharjah (AUS)](https://www.aus.edu/), and my B.Sc. in Mechatronics Engineering at the [Al- Balqa' Applied University (BAU)](https://www.bau.edu.jo/index.aspx). Since 2006, I have been conducting experimental research in the field of unmanned autonomous systems, particularly, VTOL helicopter, Quadcopters and Fixed Wing UAV. During this time, I have gained a great deal of experience in modeling, simulation, instrumentation, system identification, estimation, localization, control, guidance, and navigation.  
+I am currently pursuing my Ph.D in Mechanical Engineering at the at the [New Mexico State University (NMSU)](https://nmsu.edu/). I received my M.Sc. in Mechatronics Engineering at the [American University of Sharjah (AUS)](https://www.aus.edu/), and my B.Sc. in Mechatronics Engineering at the [Al- Balqa' Applied University (BAU)](https://www.bau.edu.jo/index.aspx).  
 
 <!---
 A data-driven personal website
