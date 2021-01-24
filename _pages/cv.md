@@ -11,14 +11,10 @@ redirect_from:
 
 Education
 ======
-Ph.D. Mechanical Engineering, New Mexico State University, NM, USA, Summer 2021 (Expected) 
-
-M.S. Mechanical Engineering, New Mexico State University, NM, USA, Spring 2018 
-
-M.S. Mechatronics Engineering, American University of Sharjah, Sharjah, UAE, Spring 2009 
-
-B.S. Mechatronics Engineering, Balqa` Applied University, Amman, Jordan, Spring 2006
-
+* Ph.D. Mechanical Engineering, New Mexico State University, NM, USA, Summer 2021 (Expected) 
+* M.S. Mechanical Engineering, New Mexico State University, NM, USA, Spring 2018 
+* M.S. Mechatronics Engineering, American University of Sharjah, Sharjah, UAE, Spring 2009 
+* B.S. Mechatronics Engineering, Balqa` Applied University, Amman, Jordan, Spring 2006
 
 Professional experience
 ======
