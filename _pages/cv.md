@@ -26,11 +26,26 @@ Professional experience
   * Extensive lab and field-testing of implemented algorithms and software. 
   * Experienced with operating the Motion Capture System (VICON) for developing control systems 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2018 – Aug 2018: Research Intern - Foresight AI Inc., San Jose, CA.
+  * Developed/Evaluated a Sensor kit (RTK and PPK GPS, IMU/INS, LiDar) for drone mapping. 
+  * Integrated the sensor-kit with the embedded systems platform (Jetson Board). 
   
+* Aug 2006 - Aug 2016 : Research Assistant and Researcher - American University of Sharjah, Dubai, UAE	
+  * Developed hardware in the loop simulation (HILS) using dSpace for testing the real time embedded systems for the UAV research. 
+  * veloped Software in the loop simulation (SIL) using MPC555 embedded systems for testing the real time embedded systems for the UAV research. 
+  * Interfacing and programming numerous sensors and actuators needed in the UAV research like: IMU, GPS, Sonar, Laser Altimeter, Pressure, Servo motors PWM signals.  
+  *Extensive experience with embedded systems: PC104/ MPC555/ PIC/ microcontrollers. 
+  * Developed a nonlinear 6-DOF fixed wing/ VTOL Helicopter model for flight simulation purpose. 
+  * Extensive experience with Matlab, Simulink, Real-Time Workshop, and the embedded coder.  
+  * Designed and manufactured an Autopilot for low speed small fixed wing UAV. 
+  * Designed the stability augmentation system and all Autopilot software functions for the Maxi Joker helicopter. Real-time system implemented on a PC/104 computer.  
+  * Designed, implemented, and tested the control & guidance algorithms for fixed wing /VTOL helicopter UAVs in real flight tests, and assessed their performance. 
+  * Tested and evaluated the performance of several commercial autopilots: Procerus and Micropilot.   
+  * Hands on flight-testing experience; Fixed wing and Rotary wings (Helicopter) UAV’s. 
+  * Conducting extensive flight-tests for System Identification for fixed wing and rotary wing UAV’s. 
+  * Performed System Identification using CIFER, (NASA software), and Matlab system identification. 
+
+
 Skills
 ======
 * Skill 1
