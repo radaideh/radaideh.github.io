@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Amer, a PhD Candidate at the [New Mexico State University](https://nmsu.edu/) in the [Department of Mechanical & Aerospace Engineering](https://mae.nmsu.edu/) at the [Autonomous Systems Laboratory (ASL)](https://asl.nmsu.edu/). I’m a researcher in the Autonomous systems specialized in Control Systems, State Estimation, and Localization. 
+Hi! I’m Amer, a PhD Candidate at the [New Mexico State University(NMSU)](https://nmsu.edu/) in the [Department of Mechanical & Aerospace Engineering](https://mae.nmsu.edu/) at the [Autonomous Systems Laboratory (ASL)](https://asl.nmsu.edu/). I’m a researcher in the Autonomous systems specialized in Control Systems, State Estimation, and Localization. 
 
 
 My background and history
 ======
-I received my Ph.D from the UC-Berkeley School of Information, my M.A. from the Communication, Culture, and Technology program at Georgetown University, and my B.A. in the Humanities program at the University of Texas at Austin. For just under five years after receiving my Ph.D, I was at the Berkeley Institute for Data Science as a staff ethnographer. At BIDS, I was first a postdoctoral scholar, then became a principal investigator and led several research and education efforts, including the institute’s Data Science Studies efforts and the Best Practices in Data Science series.
+I am currently pursuing my Ph.D in Mechanical Engineering at the at the [New Mexico State University (NMSU)](https://nmsu.edu/). I received my M.Sc. in Mechatronics Engineering at the [American University of Sharjah (AUS)](www.aus.edu), and my B.Sc. in Mechatronics Engineering at the [Al- Balqa' Applied University (BAU)](https://www.bau.edu.jo/index.aspx). Since 2006, I have been conducting experimental research in the field of unmanned autonomous systems, particularly, VTOL helicopter, Quadcopters and Fixed Wing UAV. During this time, I have gained a great deal of experience in modeling, simulation, instrumentation, system identification, estimation, localization, control, guidance, and navigation.  
 
 <!---
 A data-driven personal website
