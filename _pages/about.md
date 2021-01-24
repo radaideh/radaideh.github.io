@@ -10,6 +10,11 @@ redirect_from:
 
 Hi! I’m Amer, a PhD Candidate at the [New Mexico State University](https://nmsu.edu/) in the [Department of Mechanical & Aerospace Engineering](https://mae.nmsu.edu/) at the [Autonomous Systems Laboratory (ASL)](https://asl.nmsu.edu/). I’m a researcher in the Autonomous systems specialized in Control Systems, State Estimation, and Localization. 
 
+
+My background and history
+======
+I received my Ph.D from the UC-Berkeley School of Information, my M.A. from the Communication, Culture, and Technology program at Georgetown University, and my B.A. in the Humanities program at the University of Texas at Austin. For just under five years after receiving my Ph.D, I was at the Berkeley Institute for Data Science as a staff ethnographer. At BIDS, I was first a postdoctoral scholar, then became a principal investigator and led several research and education efforts, including the institute’s Data Science Studies efforts and the Best Practices in Data Science series.
+
 <!---
 A data-driven personal website
 ======-->
