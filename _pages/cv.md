@@ -20,12 +20,15 @@ M.S. Mechatronics Engineering, American University of Sharjah, Sharjah, UAE, Spr
 B.S. Mechatronics Engineering, Balqa` Applied University, Amman, Jordan, Spring 2006
 
 
-Work experience
+Professional experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug 2016-Present: Research Assistant - New Mexico State University, Las Cruces, NM.  
+  * Designed, implemented and tested Control Laws (PID, LQR, and Backstepping) applied on UAV’s 
+  * Extensive experience with ROS (Robot Operating System) and Gazebo. 
+  * Designed, implemented and tested estimation algorithms with Kalman filter theory (EKF, UKF). 
+  * Develop simulation environment for testing the overall system, with different mission scenarios. 
+  * Extensive lab and field-testing of implemented algorithms and software. 
+  * Experienced with operating the Motion Capture System (VICON) for developing control systems 
 
 * Fall 2015: Research Assistant
   * Github University
