@@ -13,7 +13,7 @@ Hi! I’m Amer, a PhD Candidate at the [New Mexico State University(NMSU)](https
 
 My background and history
 ======
-I am currently pursuing my Ph.D in Mechanical Engineering at the at the [New Mexico State University (NMSU)](https://nmsu.edu/). I received my M.Sc. in Mechatronics Engineering at the [American University of Sharjah (AUS)](www.aus.edu), and my B.Sc. in Mechatronics Engineering at the [Al- Balqa' Applied University (BAU)](https://www.bau.edu.jo/index.aspx). Since 2006, I have been conducting experimental research in the field of unmanned autonomous systems, particularly, VTOL helicopter, Quadcopters and Fixed Wing UAV. During this time, I have gained a great deal of experience in modeling, simulation, instrumentation, system identification, estimation, localization, control, guidance, and navigation.  
+I am currently pursuing my Ph.D in Mechanical Engineering at the at the [New Mexico State University (NMSU)](https://nmsu.edu/). I received my M.Sc. in Mechatronics Engineering at the [American University of Sharjah (AUS)](https://www.aus.edu/), and my B.Sc. in Mechatronics Engineering at the [Al- Balqa' Applied University (BAU)](https://www.bau.edu.jo/index.aspx). Since 2006, I have been conducting experimental research in the field of unmanned autonomous systems, particularly, VTOL helicopter, Quadcopters and Fixed Wing UAV. During this time, I have gained a great deal of experience in modeling, simulation, instrumentation, system identification, estimation, localization, control, guidance, and navigation.  
 
 <!---
 A data-driven personal website
